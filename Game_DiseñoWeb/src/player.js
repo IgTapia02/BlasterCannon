@@ -56,7 +56,7 @@ class Player {
         };
 
         this.powers = {
-            multyShot: true,
+            multyShot: false,
             inmortality: false,
         };
     }
